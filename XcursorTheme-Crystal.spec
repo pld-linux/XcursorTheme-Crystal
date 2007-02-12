@@ -1,6 +1,6 @@
 # TODO: more descriptive descriptions.
 Summary:	X11 mouse theme with the crystal look&feel
-Summary(pl):	Motyw kursorów X11 podobny do ikon Crystal
+Summary(pl.UTF-8):   Motyw kursorÃ³w X11 podobny do ikon Crystal
 Name:		XcursorTheme-Crystal
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 X11 mouse theme with the crystal look&feel.
 
-%description -l pl
-Motyw kursorów X11 podobny do ikon Crystal.
+%description -l pl.UTF-8
+Motyw kursorÃ³w X11 podobny do ikon Crystal.
 
 %prep
 %setup -q -n Crystalcursors
